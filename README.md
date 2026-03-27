@@ -1,8 +1,8 @@
 # Regression Modeling and Performance Evaluation
 
-MSCS 634 - Advanced Data Mining
-Name: Bishnu Sharma
-Deliverable 2
+### MSCS 634 - Advanced Data Mining
+### Name: Bishnu Sharma
+### Deliverable 2
 
 ---
 
